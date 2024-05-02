@@ -4,3 +4,5 @@ Adding change
 
 
 Adding change when software logical item is in "In Work"
+
+Changing when Software logical item is Frozen
