@@ -1,3 +1,6 @@
 Commited
 
 Adding change
+
+
+Adding change when software logical item is in "In Work"
